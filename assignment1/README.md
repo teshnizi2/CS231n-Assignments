@@ -1,0 +1,1 @@
+You can find more information about this assignment on the course website, specifically under Assignment #1 for the Spring 2020 semester. Here is the link(http://cs231n.github.io/) to access it."
